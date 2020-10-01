@@ -1,3 +1,4 @@
-# Flappy-bird
-use space bar to fly 
-if you hit the pipes game will be over
+# Flappy-bird - A fun beginner's game.
+Use space bar to fly and
+you lose when the bird hits the pipes,
+Try your luck!
